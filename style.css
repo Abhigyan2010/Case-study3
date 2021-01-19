@@ -1,0 +1,11 @@
+body{
+    background-color: seagreen;
+    text-align: center;
+}
+img{
+    height: 100px;
+}
+#final_result{
+    background-color: pink;
+    border-color: brown;
+}
